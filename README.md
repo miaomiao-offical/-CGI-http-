@@ -1,2 +1,2 @@
-# -CGI-http-
-实现了一个基于http协议的服务器，支持监听解析构建发送报文，使用epoll保证高并发，可用wrk做性能压测
+# Implement-Http-Server
+自主实现HTTP服务器
